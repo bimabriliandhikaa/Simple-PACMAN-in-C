@@ -2,7 +2,7 @@
 #include <conio.h>
 #include <windows.h>
 #include <stdbool.h>
-#define P 28
+#define P 31
 #define L 31
 
 struct xy
